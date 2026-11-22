@@ -413,9 +413,8 @@ de procesos agroindustriales.
 <br>
 
 <strong>Desarrollado por</strong><br>
-Ing. Yoimar Rudas<br>
+Ing. Julio blanco<br>
 Ing. Rafael Lara<br>
-Ing. José Gutierrez
             
 
 <br><br>
