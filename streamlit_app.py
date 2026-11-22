@@ -123,7 +123,7 @@ st.markdown("""
 <div class="hero-box">
 
 <h1 style="margin-bottom:0;">
-🏭 Control Estadístico de Calidad Agroindustrial
+🏭 Control Estadístico de Calidad En Empresas Manufactureras.
 </h1>
 
 <p style="font-size:18px; opacity:0.85;">
