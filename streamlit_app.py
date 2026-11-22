@@ -128,7 +128,7 @@ st.markdown("""
 
 <p style="font-size:18px; opacity:0.85;">
 Sistema inteligente para monitoreo, análisis y optimización
-de procesos agroindustriales mediante herramientas estadísticas.
+de procesos en empresas manufactureras mediante herramientas estadísticas.
 </p>
 
 </div>
