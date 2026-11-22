@@ -407,7 +407,7 @@ st.markdown("""
 
 <p>
 Sistema orientado al análisis, monitoreo y optimización
-de procesos agroindustriales.
+de procesos de manufactura.
 </p>
 
 <br>
