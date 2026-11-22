@@ -7,7 +7,7 @@ import pandas as pd
 # CONFIGURACIÓN
 # =========================================================
 st.set_page_config(
-    page_title="BAJO CONTROL",
+    page_title="CEC BAJO CONTROL",
     layout="wide",
     initial_sidebar_state="expanded",
     page_icon="🏭"
