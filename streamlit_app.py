@@ -172,7 +172,7 @@ with left:
     st.subheader("Plataforma de Ingeniería Industrial")
 
     st.markdown("""
-El sistema CEC Agroindustrial permite ejecutar procesos de:
+El sistema CEC Manufactory permite ejecutar procesos de:
 
 - Control Estadístico de Procesos (SPC)
 - Gestión de calidad
@@ -183,10 +183,8 @@ El sistema CEC Agroindustrial permite ejecutar procesos de:
 
 Aplicado a:
 
-- Frutas
-- Hortalizas
-- Plantas medicinales
-- Procesos agroindustriales
+-Productos
+-procesos
 """)
 
     st.info("""
